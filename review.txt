@@ -1,0 +1,18 @@
+client: Client informed glasses are very uncomfortable
+optometrist: The patient needs to revisit the clinic next week for follow up
+client: Client was happy with the glasses and said the glasses fit well and felt comfortable
+client: Client mentioned headaches when wearing glasses in sunlight
+optometrist: Client experiencing blurry vision while reading indoors
+optometrist: A new drop has been prescribed to the client
+client: Client informed glasses are very uncomfortable
+optometrist: The patient needs to revisit the clinic next week for follow up
+client: Client was happy with the glasses and said the glasses fit well and felt comfortable
+client: Client mentioned headaches when wearing glasses in sunlight
+optometrist: Client experiencing blurry vision while reading indoors
+optometrist: A new drop has been prescribed to the client
+client: Client informed glasses are very uncomfortable
+optometrist: The patient needs to revisit the clinic next week for follow up
+client: Client was happy with the glasses and said the glasses fit well and felt comfortable
+client: Client mentioned headaches when wearing glasses in sunlight
+optometrist: Client experiencing blurry vision while reading indoors
+optometrist: A new drop has been prescribed to the client
